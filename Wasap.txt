@@ -1,0 +1,4 @@
+Juan: Hola buenas tardes.
+Pepe: Hola juan que tal la mañana.
+Juan: Mas o menos y la tuya.
+Pepe: Igual.
